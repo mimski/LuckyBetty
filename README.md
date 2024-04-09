@@ -3,7 +3,7 @@ Lucky Betty is a console app built using .NET 8. It simulates a player wallet fo
 
 ## Tech Stack
 
-- .NET 6 Console App
+- .NET 8 Console App
 - Dependency Injection IoC Container: Microsoft.Extension.DependencyInjection
 
 ## Business Case
@@ -72,6 +72,10 @@ rules command:
 exit command:
 
 ![image](https://github.com/mimski/LuckyBetty/assets/44443424/d754216b-a841-4d37-a6d6-f1c3da5be045)
+
+clear command:
+
+![image](https://github.com/mimski/LuckyBetty/assets/44443424/db3478d6-1c20-4594-8d6a-2b02f02cfa64)
 
 
 Thank you for checking out LuckyBetty. Enjoy the game!
