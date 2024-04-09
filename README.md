@@ -65,8 +65,13 @@ help command:
 
 ![image](https://github.com/mimski/Csharp/assets/44443424/7f1f07d8-1ddb-47fb-9d3e-65e3c5ee6e3a)
 
-rulse command:
+rules command:
 
 ![image](https://github.com/mimski/Csharp/assets/44443424/a5f21bde-9e5b-428f-ac29-0bf4332ee216)
+
+exit command:
+
+![image](https://github.com/mimski/LuckyBetty/assets/44443424/d754216b-a841-4d37-a6d6-f1c3da5be045)
+
 
 Thank you for checking out LuckyBetty. Enjoy the game!
