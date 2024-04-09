@@ -42,15 +42,19 @@ All operations that require an amount must include the amount as a positive numb
 ## Presentation
 
 When the app is started:
+
 ![image](https://github.com/mimski/Csharp/assets/44443424/df0c20fa-990a-4234-89eb-942aa3dac732)
 
 deposit, bet, and withdraw operations:
+
 ![image](https://github.com/mimski/Csharp/assets/44443424/e5b48014-cb67-4495-af4b-c17a051ae279)
 
 help command:
+
 ![image](https://github.com/mimski/Csharp/assets/44443424/7f1f07d8-1ddb-47fb-9d3e-65e3c5ee6e3a)
 
 rulse command:
+
 ![image](https://github.com/mimski/Csharp/assets/44443424/a5f21bde-9e5b-428f-ac29-0bf4332ee216)
 
 Thank you for checking out LuckyBetty. Enjoy the game!
