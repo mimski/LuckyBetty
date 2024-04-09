@@ -49,6 +49,18 @@ deposit, bet, and withdraw operations:
 
 ![image](https://github.com/mimski/Csharp/assets/44443424/e5b48014-cb67-4495-af4b-c17a051ae279)
 
+deposit command:
+
+![image](https://github.com/mimski/Csharp/assets/44443424/63f51011-165c-4114-a4c9-de3b22e1b3b9)
+
+bet command: 
+
+![image](https://github.com/mimski/Csharp/assets/44443424/c427f761-f56b-4f55-9748-8d852bce8f48)
+
+withdraw command:
+
+![image](https://github.com/mimski/Csharp/assets/44443424/5aa82600-18b6-42f2-958d-a9dc5452a749)
+
 help command:
 
 ![image](https://github.com/mimski/Csharp/assets/44443424/7f1f07d8-1ddb-47fb-9d3e-65e3c5ee6e3a)
