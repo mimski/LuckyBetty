@@ -6,10 +6,6 @@ Lucky Betty is a console app built using .NET 8. It simulates a player wallet fo
 - .NET 8 Console App
 - Dependency Injection IoC Container: Microsoft.Extension.DependencyInjection
 
-## Business Case
-
-This application will be used by players who want to play on the slot game. The quality of code will be examined by developers to determine your C# experience.
-
 ## Requirements
 
 Build a console application in .NET Core which mimics the operations of the player wallet that powers our gaming experience.
